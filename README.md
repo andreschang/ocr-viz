@@ -1,5 +1,5 @@
 # OCR Viz
-Open Climate Research is an ongoing project that aims to facilitate creative experimentation with modeled climate data. OCR Viz extends the visual and creative capabilities of OCR Tools with custom colormapping and soon-to-be-added filtering tools.
+OCR Viz extends the visual and creative capabilities of OCR Tools with custom colormapping and soon-to-be-added filtering tools.
 
 ## Installing / Getting started
 
