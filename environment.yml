@@ -1,0 +1,8 @@
+name: ocrtools_test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - colour
